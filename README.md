@@ -4,7 +4,7 @@ Code April is a 30-day coding challenge to promote coding skills, foster learnin
 alt text
 
 What Does It Entail?
-Participants will receive daily prompts, resources, and support to guide them through the coding journey.
+Participants received daily prompts, resources, and support to guide them through the coding journey.
 Daily coding exercises and programming tasks will be provided.
 Engaging conversations and discussions will be facilitated on the platform.
 Please note that CODE APRIL is not a training platform; no formal training sessions will be organized.
